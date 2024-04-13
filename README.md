@@ -17,6 +17,10 @@ My list of publications and resources to read through
 * Thiese, Ronna, and Ott 2016 [P value interpretations and considerations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5059270/)  
 * Serdar et al 2020 [Sample size, power and effect size revisited: simplified and practical approaches in pre-clinical, clinical and laboratory studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7745163/)    
 * Szumilas 2020 [Explaining Odds Ratios](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/)  
+* Burgess et al 2023 [Guidelines for performing Mendelian randomization investigations: update for summer 2023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7384151/)  
+* Hartwig et al 2016 [Two-sample Mendelian randomization: avoiding the downsides of a powerful, widely applicable but potentially fallible technique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5722032/)  
+* Davies et al 2017 [Reading Mendelian randomisation studies: a guide, glossary, and checklist for clinicians](https://www.bmj.com/content/bmj/362/bmj.k601.full.pdf)  
+
 
 ### CRISPR sgRNA functional screens  
 * Li et al 2014 [MAGeCK enables robust identification of essential genes from genome-scale CRISPR/Cas9 knockout screens](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0554-4)  
