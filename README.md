@@ -8,7 +8,7 @@ My list of publications and resources to read through
 
 #### methods review  
 * Rich et al 2024 [The impact of package selection and versioning on single-cell RNA-seq analysis](https://www.biorxiv.org/content/10.1101/2024.04.04.588111v1)  
-
+* Cuomo et al 2021.pdf [Optimizing expression quantitative trait locus mapping workflows for single-cell studies](https://pubmed.ncbi.nlm.nih.gov/34167583/)  
 
 
 #### integration  
