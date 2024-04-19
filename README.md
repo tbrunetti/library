@@ -7,11 +7,13 @@ My list of publications and resources to read through
 
 
 #### methods review  
-* Rich et al 2024 [The impact of package selection and versioning on single-cell RNA-seq analysis](https://www.biorxiv.org/content/10.1101/2024.04.04.588111v1)  
+* Rich et al 2024 [The impact of package selection and versioning on single-cell RNA-seq analysis](https://www.biorxiv.org/content/10.1101/2024.04.04.588111v1) 
 * Cuomo et al 2021 [Optimizing expression quantitative trait locus mapping workflows for single-cell studies](https://pubmed.ncbi.nlm.nih.gov/34167583/)  
 * Luecken and Theis 2019 [Current best practices in single-cell RNA-seq
 analysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746)  
-
+#### clustering and dimensionality reduction  
+* Becht et al 2019 [Dimensionality reduction for visualizing single-cell data using UMAP(https://www.nature.com/articles/nbt.4314)  
+* Traag, Waltman & van Eck 2019 [From Louvain to Leiden: guaranteeing well-connected communities](https://www.nature.com/articles/s41598-019-41695-z)  
 
 #### integration  
 * Antonsson and Melsted 2024 [Batch correction methods used in single cell RNA-sequencing analyses are often poorly calibrated](https://www.biorxiv.org/content/10.1101/2024.03.19.585562v1)  
