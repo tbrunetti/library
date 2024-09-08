@@ -14,6 +14,9 @@ My list of publications and resources to read through
 * Cuomo et al 2021 [Optimizing expression quantitative trait locus mapping workflows for single-cell studies](https://pubmed.ncbi.nlm.nih.gov/34167583/)  
 * Luecken and Theis 2019 [Current best practices in single-cell RNA-seq
 analysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746)  
+* Squair et al 2021 [Confronting false discoveries in single-cell differential expression](https://www.nature.com/articles/s41467-021-25960-2)  
+* Zimmerman, Espeland & Langefeld 2021 [A practical solution to pseudoreplication bias in single-cell studies](https://www.nature.com/articles/s41467-021-21038-1)  
+
 #### clustering and dimensionality reduction   
 * Becht et al 2019 [Dimensionality reduction for visualizing single-cell data using UMAP(https://www.nature.com/articles/nbt.4314)  
 * Traag, Waltman & van Eck 2019 [From Louvain to Leiden: guaranteeing well-connected communities](https://www.nature.com/articles/s41598-019-41695-z)  
