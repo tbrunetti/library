@@ -45,6 +45,19 @@ analysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746)
 * Spahn et al 2017 [PinAPL-Py: A comprehensive web-application for the analysis of CRISPR/Cas9 screens](https://www.nature.com/articles/s41598-017-16193-9)  
 * Bland 2000 [The odds ratio](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1127651/)  
 
+### ATAC-seq  
+* Smith and Sheffield 2020 [Analytic Approaches for ATAC-seq Data Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8191135/)  
+* Yan, Powell, Curtis, and Wong, 2020 [From reads to insight: a hitchhiker's guide to ATAC-seq data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1929-3)  
+* Grandi, Modi, Kampman and Corces 2022 [Chromatin accessibility profiling by ATAC-seq](https://www.nature.com/articles/s41596-022-00692-9)  
+* Reske, Wilson, and Chandler 2020 [ATAC-seq normalization method can significantly affect differential accessibility analysis and interpretation](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-020-00342-y)  
+* Klemm, Shipony, and Greenleaf 2019 [Chromatin accessibility and the regulatory epigenome](https://www.nature.com/articles/s41576-018-0089-8)  
+
+
+### single cell ATAC-seq  
+* Fang et al 2021 [Comprehensive analysis of single cell ATAC-seq
+data with SnapATAC](https://www.nature.com/articles/s41467-021-21583-9)  
+* Granja et al 2021 [ArchR is a scalable software package for integrative single-cell chromatin accessibility analysis](ArchR is a scalable software package for integrative single-cell chromatin accessibility analysis)  
+
 ## reproducible research (workflow management, containers, version control)  
 * Molder et al 2021 [Sustainable data analysis with Snakemake](https://f1000research.com/articles/10-33/v2)  
 
