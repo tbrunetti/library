@@ -62,6 +62,8 @@ data with SnapATAC](https://www.nature.com/articles/s41467-021-21583-9)
 ## reproducible research (workflow management, containers, version control)  
 * Molder et al 2021 [Sustainable data analysis with Snakemake](https://f1000research.com/articles/10-33/v2)  
 
+### useful repositories and databases  
+* Amemiya, Kundaje, and Boyle 2019 [The ENCODE Blacklist: Identification of Problematic Regions of the Genome](https://www.nature.com/articles/s41598-019-45839-z)  
 
 ## software, packages, resources, blogs  
 
