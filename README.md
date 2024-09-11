@@ -51,6 +51,7 @@ analysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746)
 * Grandi, Modi, Kampman and Corces 2022 [Chromatin accessibility profiling by ATAC-seq](https://www.nature.com/articles/s41596-022-00692-9)  
 * Reske, Wilson, and Chandler 2020 [ATAC-seq normalization method can significantly affect differential accessibility analysis and interpretation](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-020-00342-y)  
 * Klemm, Shipony, and Greenleaf 2019 [Chromatin accessibility and the regulatory epigenome](https://www.nature.com/articles/s41576-018-0089-8)  
+* Tarbell and Liu 2019 [HMMRATAC: a Hidden Markov ModeleR for ATAC-seq](https://academic.oup.com/nar/article/47/16/e91/5519166)  
 
 
 ### single cell ATAC-seq  
