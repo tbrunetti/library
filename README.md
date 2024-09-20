@@ -38,12 +38,14 @@ analysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746)
 * Burgess et al 2023 [Guidelines for performing Mendelian randomization investigations: update for summer 2023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7384151/)  
 * Hartwig et al 2016 [Two-sample Mendelian randomization: avoiding the downsides of a powerful, widely applicable but potentially fallible technique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5722032/)  
 * Davies et al 2017 [Reading Mendelian randomisation studies: a guide, glossary, and checklist for clinicians](https://www.bmj.com/content/bmj/362/bmj.k601.full.pdf)  
+* Bland 2000 [The odds ratio](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1127651/)  
 
 
 ### CRISPR sgRNA functional screens  
 * Li et al 2014 [MAGeCK enables robust identification of essential genes from genome-scale CRISPR/Cas9 knockout screens](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0554-4)  
 * Spahn et al 2017 [PinAPL-Py: A comprehensive web-application for the analysis of CRISPR/Cas9 screens](https://www.nature.com/articles/s41598-017-16193-9)  
-* Bland 2000 [The odds ratio](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1127651/)  
+* Goodspeed et al 2019 [A Whole-genome CRISPR Screen Identifies a Role of MSH2 in Cisplatin-mediated Cell Death in Muscle-invasive Bladder Cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6339584/)
+  
 
 ### ATAC-seq  
 * Smith and Sheffield 2020 [Analytic Approaches for ATAC-seq Data Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8191135/)  
